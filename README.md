@@ -6,4 +6,5 @@ Especificações:
 - REST Assured 5.3.0
 
 Como utilizar:
-- Apenas execute a classe CucumberRunner.
+- Execute a aplicação [API library-api](https://github.com/fernanda-reis/library-api) de acordo com as instruções.
+- Execute a classe CucumberRunner.
